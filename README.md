@@ -1,5 +1,7 @@
 # ZhuaTech Sales Coach｜知华科技智能销售话术系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech Sales Coach 是上海如静知华信息科技有限公司面向“销售赋能训练”场景推出的社区源码项目。面向销售团队的场景话术、异议演练与合规检查工作台。基于客户场景生成可审阅的话术建议与异议处理训练。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.salescoach` · API `POST /api/salescoach/run`
